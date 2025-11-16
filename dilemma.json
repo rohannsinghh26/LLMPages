@@ -1,0 +1,11 @@
+{
+  "people": 3,
+  "case_1": {
+    "swerve": true,
+    "reason": "Two criminals threaten dozens; swerving to hit one child is lesser harm."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "Even though two are criminals, hitting them is still an active choice; risk to child is unacceptable."
+  }
+}
